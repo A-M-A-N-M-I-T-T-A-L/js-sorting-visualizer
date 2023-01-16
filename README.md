@@ -20,8 +20,8 @@ _It also has the functionality of_ **_Processing Speed Control_**  _and_   **_Ar
 <br>
 
 
-## ScreenShots 
+## Screenshots 
 ------------------
-![image](s1.png)
-![image](s2.png)
-![image](s3.png)
+![Screenshot](s1.png)
+![Screenshot](s2.png)
+![Screenshot](s3.png)
